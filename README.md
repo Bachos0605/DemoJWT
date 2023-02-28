@@ -6,7 +6,7 @@
 ![1B](https://github.com/Bachos0605/DemoJWT/blob/main/Static/2.png)
 
 ## http://localhost:8080/api/login 
-* **Cấp username, password cho database và login vào hệ thống. Lúc này nó sẽ generate ra token.**
+* **Cấp username, password đã có trong database và login vào hệ thống. Lúc này nó sẽ generate ra token.**
 ![2A](https://github.com/Bachos0605/DemoJWT/blob/main/Static/3.png)
 
 ## http://localhost:8080/api/random
